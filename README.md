@@ -5,7 +5,7 @@
 <p>you also can manage the amount of each item and add an extra item to the cart or remove it if you want to decrease the number of ordered food</p>
 <p> you can get the total charge amount of the food and order it by clicking Order button</p>
 
-
+<p><img src="https://github.com/AbdelrahmanEldabsha/Food_App/blob/main/Food_app.gif" width="500" height="300"/> </p>
 
 
 Install
